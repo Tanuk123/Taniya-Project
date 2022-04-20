@@ -1,0 +1,55 @@
+.container{
+    background-color:#FFD124;
+    width:60% ;
+    height: 550px;
+  }
+  .image1 img{
+    margin-top: 40px;
+    margin-left: 20px;
+    border-radius: 20px;
+  }
+  .containbar{
+    background-color:white;
+    width: 350px;
+    height: 420px;
+    margin-top: 50px;
+    /* margin-right: 10px; */
+    border-radius: 20px;
+    padding-right: 5px;
+  }
+  .containbar h4{
+    margin-top: 20px;
+    margin-left: 10px;
+    
+  }
+  .containbar span{
+    color: red;
+  }
+  .containbar h5{
+    margin-left:150px;
+    margin-top: 10px;
+  }
+  .containbar input{
+    border-radius: 15px;
+    width: 300px;
+    margin-left: 20px;
+    background-color: #DDDDDD;
+  }
+  
+  .containbar button{
+    width: 80px;
+    /* height: 35px; */
+    /* margin-top: 10px; */
+    margin-left: 150px;
+    border-radius: 30px;
+    margin-top: 20px;
+  
+  }
+  .containbar label{
+  margin-left: 20px;
+  /* padding: 2px; */
+  }
+  .containbar h6{
+   margin-top: 10px;
+   margin-left: 200px;
+  }

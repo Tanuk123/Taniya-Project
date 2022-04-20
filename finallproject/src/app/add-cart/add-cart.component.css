@@ -1,0 +1,39 @@
+.yellow{
+    background-color: #FBCC34;
+    width: 700px;
+    height: 350px;
+   border-radius: 20px;
+    /* margin-top: 30px;
+    margin-left: 20px; */
+}
+.yellow img{
+    margin-top: 60px;
+    margin-left: 50px;
+}
+.photo img{
+    margin-bottom: 50px;
+}
+
+
+.card-body img{
+    margin-left: 40px;
+  }
+
+.card-body h1{
+    margin-left: 20px;
+    margin-top: 50px;
+}
+
+
+.card-body button{
+    margin-left: 10px;
+    margin-bottom: 60px;
+}
+.button2 button{
+    /* margin-right: ; */
+    width: 150px;
+    height: 40px;
+}
+.card-body h4 img{
+    margin-top: 50px;
+}
